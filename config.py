@@ -12,9 +12,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_hunter_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "llMR_VAMPIRE_KINGll")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "riyaXmusicbot")
+BOT_USERNAME = getenv("BOT_USERNAME", "MUSICXPLAYERBOT")
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME", "˹ʀɪʏᴧ ꭙ ᴍᴜsɪᴄ˼")
 #get Your Assistant User name
@@ -44,15 +44,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/JHYHDYHDUDJDJNEUBDUBTHEIOMWYI890/riyaXmusicbot",
+    "https://github.com/Vampire674/Ayushi-music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KSD_BOT_NETWORk")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TEAM_RIYA_SUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TEAM_AYUSHI")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TEAM_AYUSHI")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
