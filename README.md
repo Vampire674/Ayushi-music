@@ -14,7 +14,7 @@
 
 
 <h2 align="center">
-    𖢵 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗠𝗨𝗦𝗜𝗖 𖢵
+    𖢵 𝗔𝗬𝗨𝗦𝗛𝗜 𝗠𝗨𝗦𝗜𝗖 𖢵
 
 ★ 𝗛𝗘𝗥𝗢𝗞𝗨 + 𝗩𝗣𝗦 ★
 
@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://t.me/PROFESSOR_NETWORK" alt="MADE-BY-SOURABH"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
+  <a href="https://t.me/ll_hunter_lll" alt="MADE-BY-HUNTER"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
 
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦ᴅᴇᴘʟᴏʏ+ᴏɴ+ʜᴇʀᴏᴋᴜ♦;♨️+ɴᴏ+ʜᴇʀᴏᴋᴜ+ʙᴀɴ+ɪssᴜᴇ+ᴀʟsᴏ+ᴠᴘs+ᴅᴇᴘʟᴏʏ+📍+ᴘʀᴇsᴇɴᴛ;🎭+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥+🎭">
@@ -37,7 +37,7 @@
   <img src="https://telegra.ph/file/205f3cf027a5a11f5f70e.jpg">
 </p>
 
-**𝗧𝗘𝗦𝗧 𝗕𝗢𝗧 ➣ [](https://t.me/PROFESSOR_SUKOON_BOT)**
+**𝗧𝗘𝗦𝗧 𝗕𝗢𝗧 ➣ [](https://t.me/riyaXmusicbot)**
 
 
 
@@ -50,7 +50,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/JHYHDYHDUDJDJNEUBDUBTHEIOMWYI890/riyaXmusicbot)
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/Vampire674/Ayushi-music)
 
 ## 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐔𝐓𝐎𝐑𝐈𝐀𝐋 𝐕𝐈𝐃𝐄𝐎 𝐎𝐍 𝐘𝐎𝐔𝐓𝐔𝐁𝐄
 
